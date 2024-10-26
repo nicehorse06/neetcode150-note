@@ -1,4 +1,4 @@
-# [Is Anagram](https://neetcode.io/problems/is-anagram)
+# [Valid Anagram](https://neetcode.io/problems/is-anagram)
 
 ## 解法一
 * 先建立一個dict
